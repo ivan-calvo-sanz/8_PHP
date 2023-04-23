@@ -1,0 +1,77 @@
+.error {
+  font-family: Verdana, Arial, sans-serif; 
+  font-size: 0.7em;
+  color: #900;
+  background-color : #ffff00;
+}
+
+.divisor {
+  clear:both;
+  height:0;
+  font-size: 1px;
+  line-height: 0px;
+}
+
+#login fieldset {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 230px;
+  margin-left: -115px;
+  margin-top: -80px;
+  padding:10px;
+  border:1px solid #ccc;
+  background-color: #eee;
+}
+
+#login legend {
+  font-family : Arial, sans-serif;
+  font-size: 1.3em;
+  font-weight:bold;
+  color:#333;
+}
+
+#login .campo {
+  margin-top:8px;
+  margin-bottom: 10px;
+}
+
+#login label {
+  font-family : Arial, sans-serif;
+  font-size:0.8em;
+  font-weight: bold;
+}
+
+
+#login input[type="text"], #login input[type="password"] {
+  font-family : Arial, Verdana, sans-serif;
+  font-size: 0.8em;
+  line-height:140%;
+  color : #000; 
+  padding : 3px; 
+  border : 1px solid #999;
+  height:18px;
+  width:220px;
+}
+
+#login input[type="submit"] {
+  width:100px;
+  height:30px;
+  padding-left:0px;
+}
+
+#cambio_clave {
+	display: none;
+}
+header {
+	background-color: #AEC6CF;
+	width: 100%;
+	padding: 10px;
+	color: white;
+	font-size: 2em;
+}
+
+#nombre {
+	font-family: verdana;
+	font-size: 0.8em;
+}

@@ -1,0 +1,48 @@
+body {
+	background-color: #FFF9F4;
+}
+header, #respuesta {
+	background-color: #DFA800;
+	border-radius: 25px;
+	height: 70px;
+	width: 50%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FFFEF7;
+	font-family: verdana;
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-align: center;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+#peticion {
+	background-color: #FFAC62;
+	border-radius: 25px;
+	height: 170px;
+	width: 50%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+#email {
+	color: #FCF7F5;
+	background-color: #DB9900;
+	border: none;
+	border-radius: 5px;
+	width: 35%;
+	padding: 5px;
+	height: 25px;
+}
+#comprobar {
+	height: 35px;
+	background-color: #E6CE00;
+}
